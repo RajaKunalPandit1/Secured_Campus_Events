@@ -7,4 +7,4 @@
 • Used AWS-SES, HTML, CSS, JavaScript, MongoDB.
 
 
-[Click here to Open PDF](End_Term_Report_Minor_2_(1)[1].pdf)
+[Click here to Open Project Report](End_Term_Report_Minor_2_(1)[1].pdf)
